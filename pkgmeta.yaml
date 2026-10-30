@@ -1,0 +1,5 @@
+package-as: SpeakStone_Pack_Shadowlands
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
