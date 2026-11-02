@@ -2141,6 +2141,7 @@ SpeakStoneSoundLengths_Pack_Shadowlands = {
     ["60067_completion.ogg"] = 2.80,
     ["60067_description.ogg"] = 23.36,
     ["60092_description.ogg"] = 10.80,
+    ["60096_completion.ogg"] = 7.76,
     ["60096_description.ogg"] = 9.70,
     ["60097_description.ogg"] = 9.20,
     ["60098_completion.ogg"] = 0.88,
