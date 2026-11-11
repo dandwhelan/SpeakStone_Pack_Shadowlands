@@ -1327,7 +1327,6 @@ local T = {
 ["59907_completion"]="n45",
 ["59907_description"]="57,83",
 ["59910_description"]="38,70,105",
-["59912_description"]="45,77,93,126,133,158,187",
 ["59914_completion"]="n14,18,34,63",
 ["59914_description"]="36,83,105,138",
 ["59914_progress"]="12",
